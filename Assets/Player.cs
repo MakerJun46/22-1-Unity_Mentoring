@@ -66,6 +66,7 @@ public class Player : MonoBehaviour
 
         //Vector3 new_Velocity = new Vector3(inputX, 0, inputZ) * moveSpeed;
 
+
         //RB.velocity = new_Velocity;
     }
 }
